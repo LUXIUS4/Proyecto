@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Img/Delete_64px.png</file>
+        <file>Img/descending_sorting_24px.png</file>
+        <file>Img/open_file_folder_48px.png</file>
+        <file>Img/search_48px.png</file>
+        <file>Img/documents_folder_64px.png</file>
+        <file>Img/Open file txt.png</file>
+        <file>Img/txt_64px.png</file>
+        <file>Img/close_window_48px.png</file>
+    </qresource>
+</RCC>
